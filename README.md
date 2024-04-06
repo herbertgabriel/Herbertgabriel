@@ -7,7 +7,7 @@
   ![Herbertgabs's Stats](https://github-readme-stats.vercel.app/api?username=Herbertgabs&theme=dracula&show_icons=true&hide_border=true&count_private=true) <br>
   <br>
 
-  <div align="center">
+  <div padding-left: 2rem>
    <a href="https://www.linkedin.com/in/herbertgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:herbertgacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
