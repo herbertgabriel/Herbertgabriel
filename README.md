@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Herbert;Procuro+novas+experi%C3%AAncias;e+oportunidades+na+%C3%A1rea+de+TI)](https://git.io/typing-svg)
   <br>
-<div "align: center"> 
+<div align=center> 
   Estudante de Analise e Desenvolvimento de Sistemas <br>
   <br> 
   
