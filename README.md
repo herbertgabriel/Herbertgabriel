@@ -8,7 +8,8 @@
   Estudante de Analise e Desenvolvimento de Sistemas <br>
   <br> 
   
-  ![Herbertgabs's Stats]([https://github-readme-stats.vercel.app/api?username=Herbertgabs&theme=dracula&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=herbertgabriel&theme=dracula&hide_border=true)) <br>
+  ![herbertgabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertgabriel&theme=dracula&hide_border=true)
+  
   <br>
 
    <a href="https://www.linkedin.com/in/herbertgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
