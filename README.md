@@ -10,8 +10,6 @@
   
   ![herbertgabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertgabriel&theme=dracula&hide_border=true)
   
-  <br>
-
 </div>
 <div align=center> 
   
