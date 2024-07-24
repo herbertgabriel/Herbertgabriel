@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -39,14 +39,6 @@
 ###
 
 <p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java e Springboot. Estou sempre buscando aprender algo novo e me manter atualizado com as tendências da indústria.</p>
-
-###
-
-<h2 align="left">🚀 Projetos Destacados</h2>
-
-###
-
-<p align="left">Plataforma para a Secretaria de Educação do Recife<br>Projeto fullstack desenvolvido durante a Residência Onboard - Porto Digital. A plataforma padroniza vídeos do YouTube conforme as normas da BNCC, facilitando o acesso a conteúdos educativos de qualidade.</p>
 
 ###
 
