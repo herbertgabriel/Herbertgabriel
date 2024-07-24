@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">Se você está interessado em colaborar em um projeto ou simplesmente quer trocar ideias, sinta-se à vontade para me enviar uma mensagem por e-mail ou LinkedIn:<br><br>  <a href="https://www.linkedin.com/in/herbertgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>  <a href = "mailto:herbertgacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
+<p align="left">Se você está interessado em colaborar em um projeto ou simplesmente quer trocar ideias, sinta-se à vontade para me enviar uma mensagem por e-mail ou LinkedIn:<br><br> <div align="left"> <a href="https://www.linkedin.com/in/herbertgabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>  <a href = "mailto:herbertgacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p> </div>
 
 ###
