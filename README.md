@@ -1,4 +1,5 @@
-<h1 align="left">Bem-vindo! 👋</h1>
+<h1 align="left">Bem-vindo! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" /></h1>
 
 ###
 
