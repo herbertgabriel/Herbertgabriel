@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java e Springboot. Estou sempre buscando aprender algo novo e me manter atualizado com as tendências da indústria.</p>
+<p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java e Springboot, procurando me tornar um desenvolvedor fullstack java. </p>
 
 ###
 
