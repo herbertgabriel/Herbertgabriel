@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou cursando Análise e Desenvolvimento de Sistemas e sou dedicado a adquirir conhecimentos e habilidades para conquistar meu espaço no mercado de tecnologia. Tenho uma paixão profunda por tecnologia e inovação, e acredito no poder transformador da tecnologia para criar soluções impactantes e duradouras. Estou sempre motivado a inspirar mudanças positivas nos projetos dos quais participo e na vida das pessoas.</p>
+<p align="left">Estou cursando Análise e Desenvolvimento de Sistemas e sou dedicado a adquirir conhecimentos e habilidades para conquistar meu espaço no mercado de tecnologia.</p>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<h2 align="left">🌱 O que estou aprendendo</h2>
+<h2 align="left">📖 O que estou aprendendo</h2>
 
 ###
 
-<p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java e Springboot, procurando me tornar um desenvolvedor fullstack java. </p>
+<p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java, Spring e Angular, procurando me tornar um desenvolvedor full-stack java. </p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Se você está interessado em colaborar em um projeto ou simplesmente quer trocar ideias, sinta-se à vontade para me enviar uma mensagem por e-mail ou LinkedIn:</p>
+<p align="left">Sinta-se à vontade para me enviar uma mensagem por e-mail ou LinkedIn:</p>
 <div align="left"> 
   <a href = "mailto:herbertgacruz@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
