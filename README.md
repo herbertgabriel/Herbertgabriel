@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, sou Herbert, estudante de Análise e Desenvolvimento de Sistemas (5º período), estou em busca de oportunidades nas áreas de desenvolvimento e cloud, com foco em aprendizado contínuo e crescimento profissional.
+<p align="left">Olá! Sou Herbert, atualmente cursando o quinto período de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Tenho certificação AWS Cloud Practitioner e recentemente finalizei o curso PROA ProProfissão em Desenvolvimento Web Java pelo Senac. Atualmente, estou em aprofundando em arquitetura e desenvolvimento java.
 </p>
 
 ###
@@ -24,14 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h2 align="left">📖 O que estou estudando</h2>
-
-###
-
-<p align="left">Atualmente, estou aprofundando meus conhecimentos em cloud computing, tendo recentemente passado na prova da AWS Cloud Practitioner. Também estou me aprofundando em Java, Spring e Angular, procurando me tornar um desenvolvedor full-stack java. </p>
 
 ###
 
