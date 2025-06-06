@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Herbert, atualmente cursando o quinto período de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Tenho certificação AWS Cloud Practitioner e recentemente finalizei o curso PROA ProProfissão em Desenvolvimento Web Java pelo Senac. Atualmente, estou em aprofundando em arquitetura e desenvolvimento java.
+<p align="left">Olá! Sou Herbert, sou formado em Análise e Desenvolvimento de Sistemas pelo Embarque Digital. Tenho certificação AWS Cloud Practitioner e recentemente finalizei o curso PROA ProProfissão em Desenvolvimento Web Java pelo Senac. Atualmente, estou em aprofundando em arquitetura e desenvolvimento java.
 </p>
 
 ###
